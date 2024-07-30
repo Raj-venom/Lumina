@@ -130,3 +130,7 @@ openSource.md
 *lock.json
 *lock.yml
 *lock.yaml
+
+# Keep environment variables out of version control
+.env
+db
